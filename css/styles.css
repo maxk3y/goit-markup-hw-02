@@ -20,7 +20,7 @@ body {
 .navigation {
 }
 .web-title {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 0.83;
@@ -67,7 +67,7 @@ body {
 }
 
 .main-button {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   background-color: var(--first-color);
   font-weight: 700;
   font-size: 16px;
@@ -133,7 +133,7 @@ body {
 }
 
 .bottom-webstudio {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 0.84;
@@ -162,7 +162,7 @@ body {
 }
 .portfolio-button button {
   background-color: #f5f4fa;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
