@@ -161,6 +161,7 @@ body {
 .portfolio {
 }
 .portfolio-button button {
+  background-color: #f5f4fa;
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
@@ -170,9 +171,10 @@ body {
   cursor: pointer;
 }
 
-.portfolio-button button:hover, button:focus {
-    color: #ffffff;
-    background-color: var(--first-color);
+.portfolio-button button:hover,
+button:focus {
+  color: #ffffff;
+  background-color: var(--first-color);
 }
 
 .portfolio-list {
