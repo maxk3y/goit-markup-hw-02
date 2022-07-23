@@ -23,7 +23,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 0.83;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: #000000;
 }
@@ -34,7 +34,7 @@ body {
 .navigation-list a {
   font-weight: 500;
   font-size: 14px;
-  line-height: 0.88;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--second-color);
 }
@@ -42,7 +42,7 @@ body {
 .top-contacts a {
   font-weight: 500;
   font-size: 14px;
-  line-height: 0.88;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
 }
@@ -59,7 +59,7 @@ body {
 .main-title {
   font-weight: 900;
   font-size: 44px;
-  line-height: 0.73;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -71,7 +71,7 @@ body {
   background-color: var(--first-color);
   font-weight: 700;
   font-size: 16px;
-  line-height: 1.53;
+  line-height: 1.88;
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
@@ -85,7 +85,7 @@ body {
 .feature-title {
   font-weight: 700;
   font-size: 14px;
-  line-height: 0.88;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--second-color);
@@ -104,7 +104,7 @@ body {
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 0.86;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
@@ -113,14 +113,14 @@ body {
 .team-item {
   font-weight: 500;
   font-size: 16px;
-  line-height: 0.84;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--second-color);
 }
 .team-item-role {
   font-size: 16px;
-  line-height: 0.84;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--third-color);
@@ -136,7 +136,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 0.84;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
